@@ -46,7 +46,7 @@ I also like philosophy, logic, and history... Dunno, just saying.
 
 ## 🎓 Education
 
-- **Bachelor's Degree in Computer Engineering** (Currently)  
+- **Bachelor's Degree in Computer Engineering** (In the making...)  
   *Argentine University of Business, Buenos Aires*  
 
 
