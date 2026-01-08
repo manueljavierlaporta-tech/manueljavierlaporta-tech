@@ -1,6 +1,7 @@
 # Sup, I'm Manuel La Porta 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manuel-javier-la-porta-)
+
 I'm a System Engineering student based in Buenos Aires, Argentina.
 My main tech stack is C# (.NET Framework / .NET), SQL Server, Microsoft Azure & Windows.
 
