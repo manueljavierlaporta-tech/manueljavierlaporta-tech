@@ -20,7 +20,7 @@ I also like philosophy, logic, and history... Dunno, just saying.
 
 ## 🔧 Technical Skills
 
-### 🚀 Primary Stack
+### 🚀 Main Stack
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
