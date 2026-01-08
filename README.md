@@ -50,5 +50,5 @@ I also like philosophy, logic, and history... Dunno, just saying.
 
 ## 📫 Get in Touch
 
-- [LinkedIn](www.linkedin.com/in/manuel-javier-la-porta-)
+- [LinkedIn](https://www.linkedin.com/in/manuel-javier-la-porta-0363b3223/)
 - [Email Me](mailto:manueljavierlaporta@gmail.com)
