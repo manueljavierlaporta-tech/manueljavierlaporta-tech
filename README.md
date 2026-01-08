@@ -1,5 +1,5 @@
 ## Hello there 👋
-🚀 About Me
+
 I'm Manuel, a System Engineering student based in Argentina.
 
 My main tech stack is C# (.NET Framework / .NET), SQL Server, Microsoft Azure & Windows.
