@@ -1,4 +1,4 @@
-## Hello there 👋
+# Hello there 👋
 
 I'm Manuel, a System Engineering student based in Argentina.
 
