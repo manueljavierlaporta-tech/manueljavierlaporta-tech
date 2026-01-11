@@ -49,6 +49,10 @@ I also like philosophy, logic, and history... Dunno, just saying.
 - **Bachelor's Degree in Computer Engineering** (In the making...)  
   *Argentine University of Business, Buenos Aires*  
 
+## 📖 Books
+
+So far, these are the books I've fully read (about programming, of course):  
+  1. Relational Systems Corporation. (2001). *Structured Query Language* (Version 1.2). Relational Systems Corporation.
 
 ## 📫 Get in Touch
 
